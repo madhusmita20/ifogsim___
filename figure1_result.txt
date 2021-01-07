@@ -1,0 +1,29 @@
+Starting Simulation..
+cloud,44800,40000,100,10000,0,0.01,103,83.25
+Creating connector on device cloud
+0.0 Submitted application Sample simulation
+=========================================
+============== RESULTS ==================
+=========================================
+EXECUTION TIME : 423
+=========================================
+APPLICATION LOOP DELAYS
+=========================================
+[EEG, client, concentration_calculator, client, DISPLAY] ---> null
+=========================================
+TUPLE CPU EXECUTION DELAY
+=========================================
+=========================================
+cloud : Energy Consumed = 1026226.3392857143
+proxy-server1 : Energy Consumed = 834332.9999999987
+dc_1 : Energy Consumed = 834332.9999999987
+m_2 : Energy Consumed = 824400.0
+m_3 : Energy Consumed = 824400.0
+m_4 : Energy Consumed = 824400.0
+m_5 : Energy Consumed = 824400.0
+dc_2 : Energy Consumed = 834332.9999999987
+dc_3 : Energy Consumed = 834332.9999999987
+proxy-server1 : Energy Consumed = 834332.9999999987
+Cost of execution in cloud = 4394400.0
+Total network usage = 43686.8
+
