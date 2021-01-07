@@ -1,4 +1,4 @@
-In text file you can give any name to the nodes or you can order nodes in any way between levels.For simplicity i have represented in order manner.(As nodes are the physical devices,like sensor ,actuator,device,datacenter, it totally depends on us how we are configuring.)
+In NodeFile.txt text file you can give any name to the nodes or you can order nodes in any way between levels.For simplicity i have represented in order manner.(As nodes are the physical devices,like sensor ,actuator,device,datacenter, it totally depends on us how we are configuring.)
 
 As the input given to the topology is fixed, you can see it is giving almost similar result in each configuration. But if you see carefully total execution time,network usage is changing in almost every configuration.
 
